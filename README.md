@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @darthshadoww
-- 👀 I’m interested in making EASIEST codes
-- 🌱 I’m currently learning python,js,node.js,express.js,bootstrap
-- 💞️ I’m looking to collaborate on google
+- 👋 Hi, I’m Melih
+- 🌱 I’m currently learning CUDA, AI Accerelators, FPGA etc.
+
 - 📫 You can message me or mail me! 
 
 <!---
